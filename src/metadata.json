@@ -1,0 +1,5 @@
+{
+  "name": "Tik",
+  "description": "Una plataforma integral para la gestión de subcontratados en consultoría IT. Gestiona imputación de horas, flujos de aprobación (PM y Dirección), control de facturación y análisis predictivo de costes impulsado por IA.",
+  "requestFramePermissions": []
+}
